@@ -1,10 +1,10 @@
-# 🍽️ Zomathon 2025 — PS1: KPT Prediction Improvement
+# 🍽️ Zomathon 2026 — PS1: KPT Prediction Improvement
 ### Improving Kitchen Prep Time (KPT) Prediction Through Signal Quality & System Design
 
 <div align="center">
 
 [![Team](https://img.shields.io/badge/Team-ByteWise-1A237E?style=for-the-badge)](https://github.com/JayeshJadhav28/zomathon)
-[![Competition](https://img.shields.io/badge/Zomathon-2025-E53935?style=for-the-badge)](https://github.com/JayeshJadhav28/zomathon)
+[![Competition](https://img.shields.io/badge/Zomathon-2026-E53935?style=for-the-badge)](https://github.com/JayeshJadhav28/zomathon)
 [![Track](https://img.shields.io/badge/Track-Data%20Science%20%26%20System%20Design-2E7D32?style=for-the-badge)](https://github.com/JayeshJadhav28/zomathon)
 [![Problem](https://img.shields.io/badge/Problem%20Statement-1-E65100?style=for-the-badge)](https://github.com/JayeshJadhav28/zomathon)
 
